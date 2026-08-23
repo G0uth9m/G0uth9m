@@ -286,15 +286,21 @@ A collection of Java programs and problem-solving exercises focused on strengthe
 
 ## 📈 GitHub Statistics
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=G0uth9m&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=FF2B2B&icon_color=FF2B2B&text_color=FFFFFF" height="180" alt="Goutham GitHub Stats" />
+<p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=G0uth9m&layout=compact&hide_border=true&theme=dark&bg_color=0D1117&title_color=FF2B2B&text_color=FFFFFF" height="180" alt="Goutham Top Languages" />
+  <img
+    src="https://github-readme-stats-extended.vercel.app/api?username=G0uth9m&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=FF2B2B&icon_color=FF2B2B&text_color=FFFFFF"
+    height="180"
+    alt="Goutham GitHub Stats"
+  />
+
+  <img
+    src="https://github-readme-stats-extended.vercel.app/api/top-langs/?username=G0uth9m&layout=compact&hide_border=true&theme=dark&bg_color=0D1117&title_color=FF2B2B&text_color=FFFFFF"
+    height="180"
+    alt="Goutham Top Languages"
+  />
 
 </p>
-
-
----
-
 <!-- ================= CONTRIBUTION SNAKE =================== -->
 
 ## 🐍 Contribution Snake
