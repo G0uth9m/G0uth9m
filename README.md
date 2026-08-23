@@ -1,21 +1,23 @@
 <!-- ========================================================= -->
 
-<!--                    G0UTH9M PROFILE README                 -->
+<!--                     G0UTH9M PROFILE                       -->
 
 <!-- ========================================================= -->
 
 <p align="center">
-  <img src="./banner.png" alt="Goutham GitHub Banner" width="100%">
+  <img src="./banner.png" width="100%" alt="Goutham GitHub Profile Banner">
 </p>
 
 <br>
+
+<!-- ======================= INTRO =========================== -->
 
 <h1 align="center">
   𝐇𝐢, 𝐈'𝐦 𝐆𝐨𝐮𝐭𝐡𝐚𝐦 👋
 </h1>
 
 <p align="center">
-  <b>Data Science Enthusiast • Java Developer • Problem Solver</b>
+  <b>Data Science Enthusiast • Java Developer • DSA Problem Solver</b>
 </p>
 
 <p align="center">
@@ -24,42 +26,79 @@
 
 <p align="center">
   <a href="https://github.com/G0uth9m">
-    <img src="https://img.shields.io/badge/GitHub-G0uth9m-000000?style=for-the-badge&logo=github&logoColor=white">
+    <img src="https://img.shields.io/badge/GitHub-G0uth9m-0D1117?style=for-the-badge&logo=github&logoColor=white">
   </a>
   <a href="https://www.linkedin.com/in/goutham-sridhar-8855b8334">
-    <img src="https://img.shields.io/badge/LinkedIn-Goutham%20Sridhar-000000?style=for-the-badge&logo=linkedin&logoColor=white">
+    <img src="https://img.shields.io/badge/LinkedIn-Goutham%20Sridhar-8B0000?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 </p>
 
 ---
 
+<!-- ======================= ABOUT =========================== -->
+
 ## ⚔️ About Me
 
-I'm a **Data Science enthusiast** who enjoys working with data to discover patterns, generate insights, and build practical solutions.
+I'm a **Data Science enthusiast** interested in turning raw data into meaningful insights and practical solutions.
 
-I enjoy the complete journey of a project — from **data collection and cleaning to analysis, visualization, modeling, and deployment**.
+I enjoy exploring the complete journey of a project — from **data collection and cleaning to analysis, visualization, modeling, and deployment**.
 
-Alongside Data Science, I'm developing my **Java development** skills and strengthening my understanding of **Data Structures & Algorithms**.
+Alongside Data Science, I'm building my skills in **Java development** and **Data Structures & Algorithms**, while continuously improving my problem-solving abilities.
 
 ```text
-Data → Analysis → Insights → Solutions → Impact
+        DATA
+          │
+          ▼
+     COLLECTION
+          │
+          ▼
+       CLEANING
+          │
+          ▼
+       ANALYSIS
+          │
+          ▼
+    VISUALIZATION
+          │
+          ▼
+      MODELING
+          │
+          ▼
+     DEPLOYMENT
+          │
+          ▼
+        IMPACT 🚀
 ```
 
-### 🔥 What I'm Working On
+### 🔥 What I'm Focused On
 
-* 📊 Data Analysis & Data Science projects
+* 📊 Data Science & Data Analysis
+* 🐍 Python development
 * ☕ Java development
-* 🧩 Data Structures & Algorithms
-* ☁️ AWS & Cloud technologies
+* 🧠 Data Structures & Algorithms
+* 🗄️ SQL & databases
+* ☁️ AWS & cloud technologies
 * 🤖 Machine Learning fundamentals
-* 🚀 Building practical real-world projects
-* 📚 Continuously improving my technical skills
+* 🚀 Building practical projects
+* 📚 Continuous learning
 
 ---
 
+<!-- ======================= SKILLS ========================== -->
+
 ## 🛠️ Tech Stack
 
-### 🐍 Data Science
+### 🐍 Programming
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,java" height="50">
+</p>
+
+`Python` `Java`
+
+---
+
+### 📊 Data Science & Analysis
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python" height="50">
@@ -67,17 +106,7 @@ Data → Analysis → Insights → Solutions → Impact
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="50">
 </p>
 
-**Python • Pandas • NumPy • Data Analysis • Data Visualization**
-
----
-
-### ☕ Java Development
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=java" height="50">
-</p>
-
-**Java • Object-Oriented Programming • Collections • Problem Solving**
+`Pandas` `NumPy` `Data Analysis` `Data Visualization`
 
 ---
 
@@ -87,158 +116,137 @@ Data → Analysis → Insights → Solutions → Impact
   <img src="https://skillicons.dev/icons?i=mysql" height="50">
 </p>
 
-**SQL • Data Querying • Data Manipulation**
+`SQL` `MySQL` `Data Querying`
 
 ---
 
-### ☁️ Cloud & Tools
+### ☁️ Cloud & Development Tools
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=aws,git,github,vscode" height="50">
 </p>
 
-**AWS • Git • GitHub • VS Code**
+`AWS` `Git` `GitHub` `VS Code`
 
 ---
 
 ### 🧠 Problem Solving
 
 ```text
-Data Structures
-      ↓
+Arrays
+Strings
+Linked Lists
+Stacks & Queues
+Sorting
+Searching
+Recursion
 Algorithms
-      ↓
-Logical Thinking
-      ↓
-Problem Solving
-      ↓
-Better Solutions
+Object-Oriented Programming
 ```
 
 ---
 
-## 📊 Data Science Journey
+<!-- ===================== WHAT I BUILD ====================== -->
+
+## 🚀 What I Build
+
+### 📊 Data Science Projects
+
+I enjoy working with datasets to discover patterns, answer questions, and generate useful insights.
+
+Typical workflow:
 
 ```text
-                    ┌───────────────────┐
-                    │   DATA SOURCES    │
-                    └─────────┬─────────┘
-                              ↓
-                    ┌───────────────────┐
-                    │  DATA COLLECTION  │
-                    └─────────┬─────────┘
-                              ↓
-                    ┌───────────────────┐
-                    │   DATA CLEANING   │
-                    └─────────┬─────────┘
-                              ↓
-                    ┌───────────────────┐
-                    │      ANALYSIS     │
-                    └─────────┬─────────┘
-                              ↓
-                    ┌───────────────────┐
-                    │  VISUALIZATION    │
-                    └─────────┬─────────┘
-                              ↓
-                    ┌───────────────────┐
-                    │    MODELING       │
-                    └─────────┬─────────┘
-                              ↓
-                    ┌───────────────────┐
-                    │    DEPLOYMENT     │
-                    └─────────┬─────────┘
-                              ↓
-                    ┌───────────────────┐
-                    │      IMPACT 🚀    │
-                    └───────────────────┘
+Raw Data
+   ↓
+Data Cleaning
+   ↓
+Exploratory Data Analysis
+   ↓
+Visualization
+   ↓
+Insights
+   ↓
+Business / Real-World Decisions
 ```
 
 ---
 
-## 🚀 Featured Projects
+### ☕ Java Projects
+
+I'm building Java projects to strengthen:
+
+* Core Java
+* Object-Oriented Programming
+* Collections
+* Exception Handling
+* Problem Solving
+* Data Structures & Algorithms
+
+---
+
+### ☁️ Cloud Projects
+
+I'm exploring AWS and cloud technologies to understand how applications and data workflows can be deployed and managed in real-world environments.
+
+---
+
+<!-- ======================= PROJECTS ======================== -->
+
+## 📂 Projects
 
 ### 🍕 Pizza Sales Analysis
 
-Analyzing pizza sales data to discover:
+A data analysis project focused on understanding pizza sales and extracting useful insights from sales data.
 
-* Best-selling pizzas
-* Revenue trends
-* Customer preferences
-* Product performance
-* Ingredient patterns
-* Sales insights
+**Focus Areas**
 
-**Tech:** `Python` `Pandas` `NumPy` `Data Visualization`
+* Sales performance
+* Revenue analysis
+* Best-selling products
+* Product comparison
+* Customer purchasing patterns
+* Data-driven recommendations
+
+**Technologies**
+
+`Python` `Pandas` `NumPy` `Data Analysis` `Visualization`
 
 ---
 
 ### 🛒 Walmart Sales Analysis
 
-Exploring retail sales data to understand:
+A retail data analysis project focused on exploring sales data and identifying meaningful business patterns.
 
-* Sales performance
-* Customer behavior
-* Product trends
+**Focus Areas**
+
+* Sales trends
+* Product performance
 * Revenue patterns
+* Customer behavior
 * Business insights
 
-**Tech:** `Python` `Pandas` `NumPy` `SQL` `Visualization`
+**Technologies**
+
+`Python` `Pandas` `NumPy` `SQL` `Data Visualization`
 
 ---
 
-### ☕ Java & DSA Projects
+### ☕ Java & DSA Practice
 
-A collection of Java programs and problem-solving exercises designed to strengthen:
+A collection of Java programs and problem-solving exercises focused on strengthening programming fundamentals and algorithmic thinking.
 
-* Core Java
-* OOP concepts
-* Arrays & Strings
-* Collections
-* Algorithms
-* Logical problem solving
+**Technologies**
 
-**Tech:** `Java` `DSA`
+`Java` `OOP` `DSA` `Algorithms`
 
 ---
 
-> 🚧 More projects are being built and will be added here.
+> 🚧 More projects will be added as I continue building and learning.
 
 ---
 
-## 📈 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=G0uth9m&show_icons=true&hide_border=true&theme=dark&title_color=ff2b2b&icon_color=ff2b2b&text_color=ffffff&bg_color=0d1117" height="170">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=G0uth9m&layout=compact&hide_border=true&theme=dark&title_color=ff2b2b&text_color=ffffff&bg_color=0d1117" height="170">
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=G0uth9m&theme=dark&hide_border=true&background=0D1117&ring=FF2B2B&fire=FF2B2B&currStreakLabel=FF2B2B">
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/G0uth9m/G0uth9m/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake">
-</p>
-
----
-
-## 🎯 2026 Goals
-
-* [ ] Build more real-world Data Science projects
-* [ ] Strengthen Machine Learning fundamentals
-* [ ] Improve Java development skills
-* [ ] Master Data Structures & Algorithms
-* [ ] Work with AWS and cloud technologies
-* [ ] Build and deploy end-to-end projects
-* [ ] Contribute to Open Source
-* [ ] Create projects that solve real problems
-* [ ] Keep improving every day
-
----
+<!-- ===================== LEARNING ========================== -->
 
 ## 📚 Currently Learning
 
@@ -248,9 +256,114 @@ A collection of Java programs and problem-solving exercises designed to strength
 
 </p>
 
+### 🎯 Learning Path
+
+```text
+                 ┌──────────────────┐
+                 │     Python       │
+                 └────────┬─────────┘
+                          ↓
+                 ┌──────────────────┐
+                 │  Data Analysis   │
+                 └────────┬─────────┘
+                          ↓
+                 ┌──────────────────┐
+                 │ Machine Learning │
+                 └────────┬─────────┘
+                          ↓
+                 ┌──────────────────┐
+                 │      AWS         │
+                 └────────┬─────────┘
+                          ↓
+                 ┌──────────────────┐
+                 │ Real-world Apps  │
+                 └──────────────────┘
+```
+
 ---
 
+<!-- ===================== GITHUB STATS ===================== -->
+
+## 📈 GitHub Statistics
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=G0uth9m&show_icons=true&hide_border=true&theme=dark&bg_color=0D1117&title_color=FF2B2B&icon_color=FF2B2B&text_color=FFFFFF"
+    height="180"
+    alt="Goutham GitHub Stats"
+  >
+
+<img
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=G0uth9m&layout=compact&hide_border=true&theme=dark&bg_color=0D1117&title_color=FF2B2B&text_color=FFFFFF"
+height="180"
+alt="Goutham Top Languages"
+
+>
+
+</p>
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=G0uth9m&theme=dark&hide_border=true&background=0D1117&ring=FF2B2B&fire=FF2B2B&currStreakLabel=FF2B2B"
+    alt="Goutham GitHub Streak"
+  >
+</p>
+
+---
+
+<!-- ================= CONTRIBUTION SNAKE =================== -->
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/G0uth9m/G0uth9m/output/github-contribution-grid-snake-dark.svg"
+    >
+
+```
+<source
+  media="(prefers-color-scheme: light)"
+  srcset="https://raw.githubusercontent.com/G0uth9m/G0uth9m/output/github-contribution-grid-snake.svg"
+>
+
+<img
+  src="https://raw.githubusercontent.com/G0uth9m/G0uth9m/output/github-contribution-grid-snake.svg"
+  alt="GitHub Contribution Snake"
+>
+```
+
+  </picture>
+</p>
+
+---
+
+<!-- ======================= GOALS =========================== -->
+
+## 🎯 Goals
+
+* [ ] Build more real-world Data Science projects
+* [ ] Strengthen Machine Learning fundamentals
+* [ ] Improve Java development skills
+* [ ] Master Data Structures & Algorithms
+* [ ] Work with AWS and cloud technologies
+* [ ] Build and deploy end-to-end projects
+* [ ] Contribute to Open Source
+* [ ] Solve more programming problems
+* [ ] Keep learning and improving every day
+
+---
+
+<!-- ===================== PHILOSOPHY ======================== -->
+
 ## ⚔️ My Philosophy
+
+<p align="center">
+
+### **Learn → Build → Solve → Improve → Repeat**
+
+</p>
 
 <p align="center">
   <i>
@@ -259,45 +372,63 @@ A collection of Java programs and problem-solving exercises designed to strength
 </p>
 
 <p align="center">
-  <b>Learn → Build → Solve → Improve → Repeat</b>
+  <b>Building solutions. Solving problems. Creating impact.</b>
 </p>
 
 ---
+
+<!-- ===================== CONNECT =========================== -->
 
 ## 🌐 Connect With Me
 
 <p align="center">
 
 <a href="https://github.com/G0uth9m">
-  <img src="https://img.shields.io/badge/GitHub-G0uth9m-000000?style=for-the-badge&logo=github&logoColor=white">
+  <img
+    src="https://img.shields.io/badge/GitHub-G0uth9m-000000?style=for-the-badge&logo=github&logoColor=white"
+    alt="GitHub"
+  >
 </a>
 
 <a href="https://www.linkedin.com/in/goutham-sridhar-8855b8334">
-  <img src="https://img.shields.io/badge/LinkedIn-Goutham%20Sridhar-000000?style=for-the-badge&logo=linkedin&logoColor=white">
+  <img
+    src="https://img.shields.io/badge/LinkedIn-Goutham%20Sridhar-8B0000?style=for-the-badge&logo=linkedin&logoColor=white"
+    alt="LinkedIn"
+  >
 </a>
 
 </p>
 
 <p align="center">
-  <a href="https://github.com/G0uth9m">
-    <b>GitHub Profile</b>
-  </a>
-  &nbsp;&nbsp;•&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/goutham-sridhar-8855b8334">
-    <b>LinkedIn Profile</b>
-  </a>
+
+<a href="https://github.com/G0uth9m">
+  🔗 <b>GitHub Profile</b>
+</a>
+
+   |   
+
+<a href="https://www.linkedin.com/in/goutham-sridhar-8855b8334">
+  🔗 <b>LinkedIn Profile</b>
+</a>
+
 </p>
 
 ---
 
+<!-- ======================= FOOTER ========================== -->
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:8B0000,100:FF2B2B&height=100&section=footer">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:8B0000,100:FF2B2B&height=100&section=footer"
+    width="100%"
+    alt="Footer"
+  >
 </p>
 
 <p align="center">
-  <b>Thanks for visiting my profile! ⚔️</b>
+  <b>⚔️ Thanks for visiting my profile ⚔️</b>
 </p>
 
 <p align="center">
-  ⭐ Feel free to explore my repositories and projects ⭐
+  ⭐ Explore my repositories and follow my journey ⭐
 </p>
